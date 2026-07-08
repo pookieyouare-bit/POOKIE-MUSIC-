@@ -1,18 +1,18 @@
 /**
- * OpenSource 2025 AeroX
+ * OpenSource 2026 Mubarak 
  * Code by itsfizys
- * AeroX Development
+ * Mubarak Development
  * 
- * Kali Billi Bot Configuration
+ * POOKIE MUSIC Bot Configuration
  * Update these URLs to configure your bot's support server and invite links
  */
 
 const CONFIG = {
   // Bot invite link - users will be redirected here when clicking "Invite Kali Billi"
-  botInviteUrl: "https://discord.com/api/oauth2/authorize?client_id=YOUR_BOT_CLIENT_ID&permissions=8&scope=bot",
+  botInviteUrl: "https://discord.com/oauth2/authorize?client_id=1511025355824173246&permissions=8&integration_type=0&scope=bot",
   
   // Support server invite link - users will be redirected here for support
-  supportServerUrl: "https://discord.gg/YOUR_SERVER_INVITE_CODE",
+  supportServerUrl: "https://discord.gg/nEBYj9E8g2",
   
   // Bot name (for display)
   botName: "Kali Billi",
